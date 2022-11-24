@@ -14,6 +14,10 @@ This Application will provide full online food shopping, hotel visits, reviews, 
 ## Screenshot
 ![Screenshot (156)](https://user-images.githubusercontent.com/104810544/203846816-71ef115c-ae50-4d80-98c2-334b7d5f6f03.png)
 
+## Documentation
+Google Doce :https://docs.google.com/document/d/e/2PACX-1vQJFLGbcvyp-tyryMOB6pz7k4AMf7dwifr8NI0iNss05cBUTtsSJvD24k8P26s_G1ArpkfyBnPr2S5i/pub
+
+Post Man : https://documenter.getpostman.com/view/23340952/2s8YsqTu6u
 
 ## Run Locally
 
